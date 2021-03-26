@@ -1,0 +1,6 @@
+{
+    "name": "jantronic/itcs210-project-2",
+    "require": {
+        "jwhennessey/phpinsight": "^2.0"
+    }
+}
